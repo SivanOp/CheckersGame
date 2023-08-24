@@ -1,0 +1,6 @@
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\GameLogic\obj\Debug\GameLogic.csprojAssemblyReference.cache
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\GameLogic\obj\Debug\GameLogic.pdb

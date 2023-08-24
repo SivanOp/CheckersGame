@@ -1,0 +1,11 @@
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\bin\Debug\FormUI.exe
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\bin\Debug\FormUI.pdb
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\bin\Debug\GameLogic.dll
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\bin\Debug\GameLogic.pdb
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\obj\Debug\FormUI.csprojAssemblyReference.cache
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\obj\Debug\FormUI.csproj.GenerateResource.cache
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\obj\Debug\FormUI.csproj.CopyComplete
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\obj\Debug\FormUI.exe
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\C#\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\B22 Ex05 LinoyEliyahu 209521236 SivanOpenshtein 207439167\FormUI\obj\Debug\FormUI.pdb
